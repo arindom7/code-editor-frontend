@@ -1,7 +1,7 @@
 // src/App.js
 import React from 'react';
-import Editor from './Editor';
-import FileExplorer from './FileExplorer';
+import Editor from './editor';
+import FileExplorer from './fileexplorer';
 import './App.css';
 
 const App = () => {
